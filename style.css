@@ -11,6 +11,7 @@ main {
     margin: auto;
     font-family: Lato;
     background: #f8f9fa;
+    transition: 1s;
 }
 
 header {
@@ -174,7 +175,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 100px;
+    margin: 0 85px;
 }
 
 footer div span{
