@@ -31,6 +31,12 @@ header button {
     font-family: Lato;
 }
 
+button:hover{
+    cursor: pointer;
+    transform: scale(0.9);
+    box-shadow: 0 0 2px 2px lightgrey;
+}
+
 .section-1,
 .section-5 {
     display: flex;
